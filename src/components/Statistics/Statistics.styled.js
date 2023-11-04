@@ -2,8 +2,8 @@ import styled from 'styled-components';
 
 const Title = styled.h2`
   padding: 15px;
-  font-size: 16px;
-  color: lightblue;
+  font-size: 20px;
+  text-align: center;
 `;
 
 const Container = styled.div`
