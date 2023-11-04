@@ -1,4 +1,5 @@
-import styled, { css } from 'styled-components';
+import styled from 'styled-components';
+
 const Table = styled.table`
   border-collapse: separate;
   border-spacing: 0px;
